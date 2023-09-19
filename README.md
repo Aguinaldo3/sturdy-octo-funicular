@@ -1,2 +1,2 @@
-# sturdy-octo-funicular
+# Tradutor para utilizar na escola.
 Tradutor,
